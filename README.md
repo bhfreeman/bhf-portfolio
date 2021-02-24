@@ -1,6 +1,15 @@
 # css-portfolio-homework
 
 
+github link:
+
+https://github.com/bhfreeman/css-portfolio-homework
+
+github pages link:
+
+
+https://bhfreeman.github.io/css-portfolio-homework/index.html
+
 
     GIVEN I need to sample a potential employee's previous work
     WHEN I load their portfolio
