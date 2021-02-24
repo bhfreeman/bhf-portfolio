@@ -5,6 +5,7 @@
 
 a {
     text-decoration: none;
+    color: white;
 }
 
 header {
@@ -61,7 +62,7 @@ nav a {
 }
 
 .card {
-    margin: 30px 0px;
+    margin: 30px 5px;
     flex-basis: 33%;
 }
 
@@ -97,4 +98,25 @@ nav a {
 .card a img {
     max-width: 300px;
     max-height: 300px;
+}
+
+#contact {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    min-height: 100px;
+    width: 100%;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    flex-wrap: wrap;
+}
+
+#contact h2 {
+    flex-basis: 100%;
+    text-align: center;
+}
+
+#contact a {
+    margin: 10px;
 }
