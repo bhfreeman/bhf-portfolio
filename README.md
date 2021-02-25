@@ -1,5 +1,8 @@
 # css-portfolio-homework
 
+Project is a basic html and css layout for a developers portfolio and profile.
+
+
 
 github link:
 
