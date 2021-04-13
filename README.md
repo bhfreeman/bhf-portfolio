@@ -6,12 +6,12 @@ Project is a basic html and css layout for a developers portfolio and profile.
 
 github link:
 
-https://github.com/bhfreeman/css-portfolio-homework
+https://github.com/bhfreeman/bhf-portfolio/
 
 github pages link:
 
 
-https://bhfreeman.github.io/css-portfolio-homework/index.html
+https://bhfreeman.github.io/bhf-portfolio/
 
 
 [Screenshot of site](Assets/images/site_screenshot.png?raw=true)
